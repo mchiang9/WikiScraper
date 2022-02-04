@@ -3,8 +3,11 @@ Scrape images from fandom wikis using Python.
 
 ## Setup
 1. Clone repo
+
     a. Using ssh: `git clone git@github.com:mchiang9/WikiScraper.git`
+    
     b. Using https: `git clone https://github.com/mchiang9/WikiScraper.git`
+    
     c. Using Github CLI: `gh repo clone mchiang9/WikiScraper`
 2. Setting up virtual environment.
    

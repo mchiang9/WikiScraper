@@ -15,7 +15,7 @@ Scrape images from fandom wikis using Python.
     
     This step is optional, but highly recommended as good practice when using any python project. This will set up a virtual environment that will only hold the python packages that will be needed for this project.
     
-    a. Create virtual environment: `python -m venv . --upgrade-deps`
+    a. Create virtual environment: `python3 -m venv . --upgrade-deps`
     
     b. Activate virtual environment: `source bin/activate`
 3. Install packages. `pip3 install -r requirements.txt`
